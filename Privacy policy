@@ -1,0 +1,29 @@
+# Privacy Policy for SVCE Locator
+
+**Last updated:** October 25, 2025
+
+SVCE Locator is developed by Rajat Dashore. This app is provided free of charge and is intended for use as is.
+
+## Information Collection and Use
+SVCE Locator may collect certain information such as:
+- Your email address (for login and authentication)
+- Location data (for showing nearby facilities)
+- Usage data (for app improvement)
+
+All data collected is stored securely using Firebase and is **not shared** with any third parties.
+
+## Third-party Services
+The app uses the following third-party services:
+- [Firebase Authentication](https://firebase.google.com/support/privacy)
+- [Firebase Firestore Database](https://firebase.google.com/support/privacy)
+- [Google Maps Platform](https://policies.google.com/privacy)
+
+## Security
+We value your trust and strive to use commercially acceptable means to protect your data. However, no method of transmission over the internet is 100% secure.
+
+## Changes to This Policy
+We may update our Privacy Policy from time to time. You are advised to check this page periodically for any changes.
+
+## Contact
+If you have any questions or suggestions, contact us at:
+**rajatdashore@gmail.com**
