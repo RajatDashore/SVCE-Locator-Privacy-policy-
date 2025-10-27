@@ -1,0 +1,94 @@
+Privacy Policy for SVCE Locator App
+
+Last updated: October 27, 2025
+
+Thank you for using SVCE Locator, developed by Rajat Dashore ("we", "our", or "us").
+This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application SVCE Locator (“App”).
+
+1. Information We Collect
+
+We may collect the following types of information:
+
+a. Personal Information
+
+Email address — when you log in or sign up using our authentication system (Firebase Authentication).
+
+Name and profile details — if you choose to provide them in your profile.
+
+b. Location Information
+
+We may collect real-time location data (via Google Maps API) to help locate your position inside or near the SVCE campus.
+
+Location is only collected with your permission and used to display or navigate the campus map.
+
+c. Device Information
+
+We may automatically collect information such as device type, operating system, and unique device identifiers for app performance and analytics.
+
+d. Usage Data
+
+Information about how you use the app, such as visited screens, errors, and feature interactions, may be collected through Firebase Analytics to improve user experience.
+
+2. How We Use Your Information
+
+We use your information to:
+
+Provide and improve app functionality.
+
+Authenticate users securely.
+
+Display accurate maps and navigation.
+
+Communicate updates or important notices.
+
+Analyze app performance and fix bugs.
+
+3. Data Sharing and Disclosure
+
+We do not sell or rent your personal data to anyone.
+We may share data only with:
+
+Firebase (Google LLC) for authentication, analytics, and database storage.
+
+Google Maps Platform for map and location services.
+
+All third-party services comply with their respective privacy policies (Google Privacy Policy: https://policies.google.com/privacy
+).
+
+4. Data Security
+
+We use industry-standard encryption and Firebase security rules to protect your data from unauthorized access, alteration, or disclosure.
+
+5. Data Retention
+
+We retain your personal data only as long as necessary to provide our services.
+If you delete your account, your information will be permanently removed from our systems within a reasonable period.
+
+6. Your Rights
+
+You have the right to:
+
+Access, update, or delete your personal information.
+
+Withdraw location permission at any time via your device settings.
+
+Contact us for data-related queries.
+
+7. Children’s Privacy
+
+Our app is intended for use by students and individuals aged 13 and above.
+We do not knowingly collect personal data from children under 13.
+
+8. Changes to This Policy
+
+We may update this Privacy Policy periodically.
+Any updates will be reflected here with a new “Last updated” date.
+
+9. Contact Us
+
+If you have questions about this Privacy Policy or your data, please contact:
+
+📧 rajatdashore@gmail.com
+
+📱 Developer: Rajat Dashore
+📍 App: SVCE Locator
